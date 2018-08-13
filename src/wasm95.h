@@ -2,4 +2,4 @@
 
 #include "gfx.h"
 
-EMSCRIPTEN_KEEPALIVE void run(Screenbuffer *s);
+EMSCRIPTEN_KEEPALIVE void update(Screenbuffer *s);
