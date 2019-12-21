@@ -1,5 +1,6 @@
 #screen {
-	width: 640px;
-	height: 480px;
+	width: 1280px;
+	height: 960px;
 	background-color: #000;
+	image-rendering: pixelated;
 }
